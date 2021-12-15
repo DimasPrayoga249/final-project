@@ -1,0 +1,15 @@
+                          Kamar VIP
+---------------------------------------------------------------
+Fasilitas Kamar
+1. Air Conditioner                      11. Meja
+2. 1 Bed                                12. Smart TV 72'
+3. 1 Kamar mandi (air panas & dingin)   13. Sofabed
+4. Bedside cabinet                      14. Kulkas
+5. Kursi tunggu                         15. Bed penunggu
+6. Overbed table                        16. Telepon
+7. Meja TV                              17. Ruang keluarga
+8. Almari pakaian                       18. 1 Set meja makan
+9. Refigrator                           19. Kitchen set
+10. Dispencer                           20. Mini bar"
+  
+  Tarif Kamar per malam Rp. 3.500.000,-

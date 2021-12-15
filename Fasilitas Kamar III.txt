@@ -1,0 +1,12 @@
+                            KELAS III
+ ---------------------------------------------------------------
+Fasilitas Kamar
+
+1. Air Conditioner
+2. 1 Bed
+3. 1 Kamar mandi (air panas & dingin)
+4. Bedside cabinet
+5. Kursi tunggu
+6. Lemari kecil
+
+Tarif Kamar per malam Rp. 800.000,-

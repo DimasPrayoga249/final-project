@@ -1,0 +1,12 @@
+===============================================================
+                RUMAH SAKIT INTEGRASI NASIONAL                
+===============================================================
+  ___________________________________________________________
+ | No.|   Pelayanan Medis Spesialistik                       |
+ |___________________________________________________________|
+ | 1  |   Pelayanan Spesialis penyakit dalam                 |
+ | 2  |   Pelayanan spesialis Penyakit kulit dan kelamin     |
+ | 3  |   Pelayanan spesialis THT                            |
+ | 4  |   Pelayanan spesialis bedah                          |
+ | 5  |   Pelayanan spesialis mata                           |
+ |____|______________________________________________________|

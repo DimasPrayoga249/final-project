@@ -1,0 +1,12 @@
+||=========================================================||
+ |                       FINAL PROJECT                      |
+||=========================================================||
+ |  APLIKASI RAWAT INAP                                     |
+ |  •    Jenis penyakit (5)                               |
+ |  •    Dokter (5)                                       |
+ |  •    Jenis kamar (VIP, kelas 1, kelas 2, kelas 3)     |
+ |  •    Lama waktu rawat inap                            |
+ |  •    Data pasien                                      |
+ |  •    Biaya dokter, kamar, obat                        |
+ |  •    Data obat (5 penyakit)                           |
+||=========================================================||
