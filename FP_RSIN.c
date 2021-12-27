@@ -14,8 +14,8 @@ int main()
     long int total_1, total_2,total_3,total_4,total_5,total_6,total_7,total_8,total_9;
     long int total1_obat,total2_obat,total3_obat,total4_obat,total5_obat, biaya1,biaya2,biaya3,biaya4,biaya5, tot_biaya, bill_kamar, bill_obat, bill_dokter;
     long int tot_biaya1, tot_biaya2, tot_biaya3, tot_biaya4, tot_biaya5;
-    char opsi, pilih, kamar, booking,booking1, booking2, booking3, nama[50], alamat[250], telp[15], mail[50], npk[50],tekan;
-    char rawat, booking4, booking5, booking6, booking7, booking8, pasien[50],gender, cek, dopil, perawat, dokter, bidok, lanjut;
+    char opsi, pilih, kamar, booking,booking1, booking2, booking3, pasien[50], nama[50], alamat[250], telp[15], mail[50], npk[50], tekan;
+    char rawat, booking4, booking5, booking6, booking7, booking8,gender, cek, dopil, perawat, dokter, bidok, lanjut;
 	char data[500];
 menu:
 menu1:
@@ -82,7 +82,7 @@ jenis_kamar:
                  system("cls");
                     printf("  Silahkan Masukkan Data Pemesanan\n");
                     printf("  Nama Pemesan Kamar   :");
-                    gets(npk);
+                    scanf("%s",&npk);
                     printf("  Periode (malam)      :");
                     scanf("%i",&periode);
                     printf("  No. telepon          :");
@@ -90,7 +90,7 @@ jenis_kamar:
                     printf("  Email                :");
                     scanf("%s",&mail);
                     printf("  Alamat               :");
-                    gets(alamat);
+                    scanf("%s",&alamat);
                     printf("\n");
                     system("cls");
 
@@ -102,9 +102,9 @@ jenis_kamar:
                     printf("  | No. Telepon           || %s\n", telp);
                     printf("  | Email                 || %s     \n", mail);
                     printf("  | Alamat                || %s\n", alamat);
-     total_1=(periode*3500000);
+     				total_1=periode*3500000;
                     printf("  | Biaya Kamar per malam || Rp 3500000,-\n");
-                    printf("  | Total Biaya Kamar     || Rp %s ,- *sesuai periode\n",total_1);
+                    printf("  | Total Biaya Kamar     || Rp %i ,- *sesuai periode\n",total_1);
                     printf("  -------------------------------------------------------------------------------------\n\n");
                     printf("  Pilih Jenis Perawatan (y/n): ");
                     scanf("%s",&pilih);
@@ -141,7 +141,7 @@ jenis_kamar:
                  system("cls");
                     printf("  Silahkan Masukkan Data Pemesanan\n");
                     printf("  Nama Pemesan Kamar   :");
-                    gets(npk);
+                    scanf("%s",&npk);
                     printf("  Periode (malam)      :");
                     scanf("%i",&periode);
                     printf("  No. telepon          :");
@@ -149,7 +149,7 @@ jenis_kamar:
                     printf("  Email                :");
                     scanf("%s",&mail);
                     printf("  Alamat               :");
-                    gets(alamat);
+                    scanf("%s",&alamat);
                     printf("\n");
                     system("cls");
 
@@ -163,7 +163,7 @@ jenis_kamar:
                     printf("  | Alamat                || %s\n", alamat);
      total_2=(periode*2500000);
                     printf("  | Biaya Kamar per malam || Rp 2500000,-\n");
-                    printf("  | Total Biaya Kamar     || Rp %s ,- *sesuai periode\n",total_2);
+                    printf("  | Total Biaya Kamar     || Rp %i ,- *sesuai periode\n",total_2);
                     printf("  -------------------------------------------------------------------------------------\n\n");
                     printf("  Pilih Jenis Perawatan (y/n): ");
                     scanf("%s",&pilih);
@@ -201,7 +201,7 @@ jenis_kamar:
                  system("cls");
                     printf("  Silahkan Masukkan Data Pemesanan\n");
                     printf("  Nama Pemesan Kamar   :");
-                    gets(npk);
+                    scanf("%s",&npk);
                     printf("  Periode (malam)      :");
                     scanf("%i",&periode);
                     printf("  No. telepon          :");
@@ -209,7 +209,7 @@ jenis_kamar:
                     printf("  Email                :");
                     scanf("%s",&mail);
                     printf("  Alamat               :");
-                    gets(alamat);
+                    scanf("%s",&alamat);
                     printf("\n");
                     system("cls");
 
@@ -223,7 +223,7 @@ jenis_kamar:
                     printf("  | Alamat                || %s\n", alamat);
      total_3=(periode*1300000);
                     printf("  | Biaya Kamar per malam || Rp 1300000,-\n");
-                    printf("  | Total Biaya Kamar     || Rp %s ,- *sesuai periode\n",total_3);
+                    printf("  | Total Biaya Kamar     || Rp %i ,- *sesuai periode\n",total_3);
                     printf("  -------------------------------------------------------------------------------------\n\n");
                     printf("  Pilih Jenis Perawatan (y/n): ");
                     scanf("%s",&pilih);
@@ -259,7 +259,7 @@ jenis_kamar:
                  system("cls");
                     printf("  Silahkan Masukkan Data Pemesanan\n");
                     printf("  Nama Pemesan Kamar   :");
-                    gets(npk);
+                    scanf("%s",&npk);
                     printf("  Periode (malam)      :");
                     scanf("%i",&periode);
                     printf("  No. telepon          :");
@@ -267,7 +267,7 @@ jenis_kamar:
                     printf("  Email                :");
                     scanf("%s",&mail);
                     printf("  Alamat               :");
-                    gets(alamat);
+                    scanf("%s",&alamat);
                     printf("\n");
                     system("cls");
 
@@ -281,7 +281,7 @@ jenis_kamar:
                     printf("  | Alamat                || %s|n", alamat);
      total_4=(periode*800000);
                     printf("  | Biaya Kamar per malam || Rp 800000,-\n");
-                    printf("  | Total Biaya Kamar     || Rp %s ,- *sesuai periode\n",total_4);
+                    printf("  | Total Biaya Kamar     || Rp %i ,- *sesuai periode\n",total_4);
                     printf("  -------------------------------------------------------------------------------------\n\n");
                     printf("  Pilih Jenis Perawatan (y/n): ");
                     scanf("%s",&pilih);
@@ -301,22 +301,6 @@ jenis_kamar:
                 }
             }
    break;
-                    system("cls");
-                    prinf("\n");
-                    prinf(" -------------------------------------------------------------------------------------\n");
-                    prinf(" Data Pasien\n");
-                    prinf(" -------------------------------------------------------------------------------------\n");
-                    prinf(" | Nama Pasien                        || %s      \n",pasien);
-                    prinf(" | Umur                               || %i Tahun\n",umur);
-                    prinf(" | Gender [L/P]                       || ");
-                    if (gender == 'l'||gender=='L')
-                    {
-                       	prinf("Laki-laki\n");
-                    }
-                    else if (gender =='p'||gender=='P')
-                    {
-                        prinf("Perempuan\n");
-                    }
 jenis_perawatan:
   case 2:
    system("cls");
@@ -358,9 +342,9 @@ jenis_perawatan:
                     printf(" -------------------------------------------------------------------------------------\n");
                     printf(" Data Pasien\n");
                     printf(" -------------------------------------------------------------------------------------\n");
-                    printf(" | Nama Pasien                   || %s     \n",pasien); 
-                    printf(" | Umur                          || %i Tahun\n",umur);
-                    printf(" | Gender [L/P]                  || %s",gender);
+                    printf(" | Nama Pasien                   || %s\n", pasien); 
+                    printf(" | Umur                          || %i Tahun\n", umur);
+                    printf(" | Gender [L/P]                  || ");
                     if (gender == 'l'||gender=='L')
                     {
                         printf("Laki-laki\n");
@@ -414,9 +398,9 @@ jenis_perawatan:
                     printf(" -------------------------------------------------------------------------------------\n");
                     printf(" Data Pasien\n");
                     printf(" -------------------------------------------------------------------------------------\n");
-                    printf(" | Nama Pasien                   || %s     \n",pasien); 
+                    printf(" | Nama Pasien                   || %s\n",pasien); 
                     printf(" | Umur                          || %i Tahun\n",umur);
-                    printf(" | Gender [L/P]                  || %s",gender);
+                    printf(" | Gender [L/P]                  || ");
                     if (gender == 'l'||gender=='L')
                     {
                         printf("Laki-laki\n");
@@ -470,9 +454,9 @@ jenis_perawatan:
                     printf(" -------------------------------------------------------------------------------------\n");
                     printf(" Data Pasien\n");
                     printf(" -------------------------------------------------------------------------------------\n");
-                    printf(" | Nama Pasien                   || %s     \n",pasien); 
+                    printf(" | Nama Pasien                   || %s\n",pasien); 
                     printf(" | Umur                          || %i Tahun\n",umur);
-                    printf(" | Gender [L/P]                  || %s",gender);
+                    printf(" | Gender [L/P]                  || ");
                     if (gender == 'l'||gender=='L')
                     {
                         printf("Laki-laki\n");
@@ -526,9 +510,9 @@ jenis_perawatan:
                     printf(" -------------------------------------------------------------------------------------\n");
                     printf(" Data Pasien\n");
                     printf(" -------------------------------------------------------------------------------------\n");
-                    printf(" | Nama Pasien                   || %s     \n",pasien); 
+                    printf(" | Nama Pasien                   || %s\n",pasien); 
                     printf(" | Umur                          || %i Tahun\n",umur);
-                    printf(" | Gender [L/P]                  || %s",gender);
+                    printf(" | Gender [L/P]                  || ");
                     if (gender == 'l'||gender=='L')
                     {
                         printf("Laki-laki\n");
@@ -582,9 +566,9 @@ jenis_perawatan:
                     printf(" -------------------------------------------------------------------------------------\n");
                     printf(" Data Pasien\n");
                     printf(" -------------------------------------------------------------------------------------\n");
-                    printf(" | Nama Pasien                   || %s     \n",pasien); 
+                    printf(" | Nama Pasien                   || %s\n",pasien); 
                     printf(" | Umur                          || %i Tahun\n",umur);
-                    printf(" | Gender [L/P]                  || %s",gender);
+                    printf(" | Gender [L/P]                  || ");
                     if (gender == 'l'||gender=='L')
                     {
                         printf("Laki-laki\n");
@@ -626,7 +610,7 @@ jenis_perawatan:
 					fclose(in14);
         printf("\n  Rincian Pemesanan\n");
         printf("  -----------------\n");
-        printf("  Nama Pemesan kamar       : ");gets(npk);
+        printf("  Nama Pemesan kamar       : ");scanf("%s",&npk);
         printf("\n  Jenis kamar yang Dipesan : ");
         if (kamar == '1')
             {
@@ -646,10 +630,10 @@ jenis_perawatan:
          }
         printf("  No.Telepon               : %s\n",telp);
         printf("  Email                    : %s\n",mail);
-        printf("  Alamat                   : ");gets(alamat);
+        printf("  Alamat                   : ");scanf("%s",&alamat);
         printf("\n\n  Identitas Pasien\n");
         printf("  ----------------\n");
-        printf("  Nama Pasien              : ");gets(pasien);
+        printf("  Nama Pasien              : ");scanf("%s",&pasien);
         printf("\n  Umur                     : %i Tahun\n",umur);
         printf("  Gender                   : ");
         if (gender == 'l')
@@ -807,4 +791,3 @@ jenis_perawatan:
 
     return 0;
 }
-
