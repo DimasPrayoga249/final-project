@@ -1,5 +1,6 @@
 # JUDUL PROJECT AKHIR
 MANAJEMEN PENGELOLAAN RAWAT INAP RUMAH SAKIT INTEGRASI 
+![Gambar Asal](https://www.bing.com/images/search?view=detailV2&ccid=omGF51%2fR&id=D114DED69FC24ECEF628DEB1DC73FB7A736FDEAC&thid=OIP.omGF51_RKwHfjgJBiM_OJgHaHh&mediaurl=https%3a%2f%2ffreepngimg.com%2fdownload%2femail_marketing%2f64843-icons-marketing-computer-advertising-forwarding-email-gmail.png&exph=3046&expw=3000&q=email&simid=608030020556975699&FORM=IRPRST&ck=51816243AEE1BFB202330F939A338FC7&selectedIndex=3)
 
 # GAMBAR SCREENSHOOT APLIKASI
 ![Tampilan Awal Aplikasi](https://drive.google.com/file/d/1sas4tNG47cdkV9ezwjrk_1KgTDKmAI9g/view?usp=sharing)
