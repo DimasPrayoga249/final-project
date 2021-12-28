@@ -1,5 +1,5 @@
 # JUDUL PROJECT AKHIR
-**MANAJEMEN PENGELOLAAN RAWAT INAP RUMAH SAKIT INTEGRASI**
+**MANAJEMEN PENGELOLAAN RAWAT INAP RUMAH SAKIT INTEGRASI NASIONAL**
 
 # GAMBAR SCREENSHOOT APLIKASI
 ![Tampilan Awal Aplikasi](https://github.com/DimasPrayoga249/final-project-kelompok-2/blob/6ca4a867fcd1e2da8831aa24612b386517fe36f7/Tampilan%20Awal%20Aplikasi.png "Tampilan Awal Aplikasi")
