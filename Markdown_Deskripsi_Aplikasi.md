@@ -1,32 +1,31 @@
 # JUDUL PROJECT AKHIR
-MANAJEMEN PENGELOLAAN RAWAT INAP RUMAH SAKIT INTEGRASI 
+**MANAJEMEN PENGELOLAAN RAWAT INAP RUMAH SAKIT INTEGRASI**
 
 # GAMBAR SCREENSHOOT APLIKASI
-![Tampilan Awal Aplikasi](https://drive.google.com/file/d/1sas4tNG47cdkV9ezwjrk_1KgTDKmAI9g/view?usp=sharing)
-![HomePage Aplikasi](https://drive.google.com/file/d/1o40MuG82OSaEcHBCA-KuCOX6lPn90iA4/view?usp=sharing)
-![Memilih Jenis Kamar](https://drive.google.com/file/d/1CKZ2OCUdtwG8_Ml1qyr9OGrgvUNanw2_/view?usp=sharing)
-![Rincian Kamar Kelas I](https://drive.google.com/file/d/1u0jYzubKARbgKTz2Y2SNtx8o1RkmGPfr/view?usp=sharing)
-![Rincian Kamar Kelas II](https://drive.google.com/file/d/1mIOIZYX9E92WVPzaZWoKMZ0cZrKDBcuo/view?usp=sharing)
-![Rincian Kamar Kelas III](https://drive.google.com/file/d/1d6a87-cwHV5UZdg_P6ifuvfEsmK7pTjH/view?usp=sharing)
-![Rincian Kamar Kelas VIP](https://drive.google.com/file/d/1jUh1S0PKtIVAtzwj7izWwU3IjOBr_B3L/view?usp=sharing)
-![Input Data Diri](https://drive.google.com/file/d/1CUCt-75hEk2tHMnU4n7lmqYgAAwh7GeB/view?usp=sharing)
-![Data Pemesan Kamar](https://drive.google.com/file/d/1omd6UW3NbG45l9x0rdQlx7MECm_bxSRb/view?usp=sharing)
-![Memilih Jenis Pelayanan Spesialis](https://drive.google.com/file/d/1sqSD0DT94CACyi0HAuIGgkGIT7e-ljnY/view?usp=sharing)
-![Detail Pelayanan Spesialis Bedah Umum](https://drive.google.com/file/d/14UyIDs93NEs_lO9C5-L0E-HM1arch2g1/view?usp=sharing)
+![Tampilan Awal Aplikasi](https://github.com/DimasPrayoga249/final-project-kelompok-2/blob/6ca4a867fcd1e2da8831aa24612b386517fe36f7/Tampilan%20Awal%20Aplikasi.png "Tampilan Awal Aplikasi")
+![HomePage Aplikasi]( https://github.com/DimasPrayoga249/final-project-kelompok-2/blob/6ca4a867fcd1e2da8831aa24612b386517fe36f7/HomePage%20Aplikasi.png "Home Page Aplikasi")
+![Memilih Jenis Kamar](https://github.com/DimasPrayoga249/final-project-kelompok-2/blob/6ca4a867fcd1e2da8831aa24612b386517fe36f7/Memilih%20Jenis%20Kamar.png "Memilih Jenis Kamar")
+![Rincian Kamar Kelas VIP]( https://github.com/DimasPrayoga249/final-project-kelompok-2/blob/6ca4a867fcd1e2da8831aa24612b386517fe36f7/Rincian%20Kamar%20Kelas%20VIP.png "Rincian Kamar Kelas VIP")
+![Rincian Kamar Kelas I](https://github.com/DimasPrayoga249/final-project-kelompok-2/blob/6ca4a867fcd1e2da8831aa24612b386517fe36f7/Rincian%20Kamar%20Kelas%20I.png "Rincian Kamar Kelas I")
+![Rincian Kamar Kelas II](https://github.com/DimasPrayoga249/final-project-kelompok-2/blob/6ca4a867fcd1e2da8831aa24612b386517fe36f7/Rincian%20Kamar%20Kelas%20II.png "Rincian Kamar Kelas II")
+![Rincian Kamar Kelas III](https://github.com/DimasPrayoga249/final-project-kelompok-2/blob/6ca4a867fcd1e2da8831aa24612b386517fe36f7/Rincian%20Kamar%20Kelas%20III.pn "Rincian Kamar Kelas III")
+![Input Data Diri](https://github.com/DimasPrayoga249/final-project-kelompok-2/blob/6ca4a867fcd1e2da8831aa24612b386517fe36f7/Input%20Data%20Diri.png "Input Data Diri")
+![Data Pemesan Kamar](https://github.com/DimasPrayoga249/final-project-kelompok-2/blob/6ca4a867fcd1e2da8831aa24612b386517fe36f7/Data%20Pemesan%20Kamar.png "Data Pemesan Kamar")
+![Memilih Jenis Pelayanan Spesialis](https://github.com/DimasPrayoga249/final-project-kelompok-2/blob/6ca4a867fcd1e2da8831aa24612b386517fe36f7/Memilih%20Jenis%20Pelayanan%20Spesialis.png "Memilih Jenis Pelayanan Spesialis")
+![Detail Pelayanan Spesialis Bedah Umum](https://github.com/DimasPrayoga249/final-project-kelompok-2/blob/6ca4a867fcd1e2da8831aa24612b386517fe36f7/Detail%20Pelayanan%20Spesialis%20Bedah%20Umum.png "Detail Pelayanan Spesialis Bedah Umum")
 ![Detail Pelayanan Spesialis Mata](https://github.com/DimasPrayoga249/final-project-kelompok-2/blob/3b60025ab2fd4f7428070170ac6753153fbf1d44/Detail%20Pelayanan%20Spesialis%20Mata.png "Detail Pelayanan Spesialis Mata")
-![Daetail Pelayanan Spesialis Penyakit Dalam](https://drive.google.com/file/d/1sZz9-nvfwJdz9V2dP_l2sbdcX1UecqLu/view?usp=sharing)
-![Detail Pelayanan Spesialis Penyakit Kulit dan Kelamin](https://drive.google.com/file/d/19AggQ1Qcf-myTYUvdyjR4UEi0zulh_cA/view?usp=sharing)
-![Detail Pelayanan Spesialis THT](https://drive.google.com/file/d/1qgsle6TWOnsaJ9J7EIQDyX29mjPkagAr/view?usp=sharing)
-![Input Data Pasien](https://drive.google.com/file/d/1PrC6LaZuPfbkYX3r3a7dG2wsWGHgDdW7/view?usp=sharing)
-![Data Pasien dan Pemesanan](https://drive.google.com/file/d/1ymgb5dNfigV6yv7BnMCmPJ99uxPQLglo/view?usp=sharing)
-![Surat Keterangan Perawatan](https://drive.google.com/file/d/1btZProvdGErxBpFyR-0AE8iy9j77JG7s/view?usp=sharing)
-
+![Detail Pelayanan Spesialis Penyakit Dalam]( https://github.com/DimasPrayoga249/final-project-kelompok-2/blob/6ca4a867fcd1e2da8831aa24612b386517fe36f7/Detail%20Pelayanan%20Spesialis%20Penyakit%20Dalam.png "Detail Pelayanan Spesialis Penyakit Dalam")
+![Detail Pelayanan Spesialis Penyakit Kulit dan Kelamin](https://github.com/DimasPrayoga249/final-project-kelompok-2/blob/6ca4a867fcd1e2da8831aa24612b386517fe36f7/Detail%20Pelayanan%20Penyakit%20Kulit%20dan%20Kelamin.png "Detail Pelayanan Spesialis Penyakit Kulit dan Kelamin")
+![Detail Pelayanan Spesialis THT]( https://github.com/DimasPrayoga249/final-project-kelompok-2/blob/6ca4a867fcd1e2da8831aa24612b386517fe36f7/Detail%20Pelayanan%20Spesialis%20THT.png "Detail Pelayanan Spesialis THT")
+![Input Data Pasien](https://github.com/DimasPrayoga249/final-project-kelompok-2/blob/6ca4a867fcd1e2da8831aa24612b386517fe36f7/Input%20Data%20Pasien.png "Input Data Pasien")
+![Data Pasien dan Pemesanan](https://github.com/DimasPrayoga249/final-project-kelompok-2/blob/6ca4a867fcd1e2da8831aa24612b386517fe36f7/Data%20Pasien%20dan%20Pemesanan.png "Data Pasien dan Pemesanan")
+![Surat Keterangan Perawatan](https://github.com/DimasPrayoga249/final-project-kelompok-2/blob/6ca4a867fcd1e2da8831aa24612b386517fe36f7/Surat%20Keterangan%20Perawatan.png "Surat Keterangan Perawatan")
 # NAMA ANGGOTA KELOMPOK
-Andi Purnomo (20081010014)
-Samuel Krispama Lumbantoruan (20081010066)
-Beni Tiyas Kristanti (20081010072) 
-Alif Syahda Adji Masyhuri (20081010220) 
-Dimas Satria Prayoga (20081010249)
+* Andi Purnomo (20081010014)
+* Samuel Krispama Lumbantoruan (20081010066)
+* Beni Tiyas Kristanti (20081010072) 
+* Alif Syahda Adji Masyhuri (20081010220) 
+* Dimas Satria Prayoga (20081010249)
 # DESKRIPSI PROJECT AKHIR
 Aplikasi ini melakukan manajemen terhadap pasien dan pemesan kamar untuk melakukan transaksi untuk rawat inap melalui aplikasi. Dengan mencantumkan data diri pasien dan pemesan kamar, maka pemesan atau pasien dapat memilih jenis kamar dan durasi rawat inapnya serta jenis pelayanan spesialis yang pasien butuhkan lengkap dengan dokter dan rincian biayanya. Aplikasi juga akan memberikan surat keterangan perawatan setelah input data dan proses pemilihan jenis kamar dan pelayanan selesai. 
 
