@@ -1,4 +1,4 @@
-# NAMA ANGGOTA KELOMPOK
+# NAMA ANGGOTA KELOMPOK 2
 * Andi Purnomo (20081010014)
 * Samuel Krispama Lumbantoruan (20081010066)
 * Beni Tiyas Kristanti (20081010072) 
