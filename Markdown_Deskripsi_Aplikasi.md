@@ -2,7 +2,7 @@
 MANAJEMEN PENGELOLAAN RAWAT INAP RUMAH SAKIT INTEGRASI 
 
 # GAMBAR SCREENSHOOT APLIKASI
-![Tampilan Awal Aplikasi]( https://drive.google.com/file/d/1sas4tNG47cdkV9ezwjrk_1KgTDKmAI9g/view?usp=sharing)
+![Tampilan Awal Aplikasi](https://drive.google.com/file/d/1sas4tNG47cdkV9ezwjrk_1KgTDKmAI9g/view?usp=sharing)
 ![HomePage Aplikasi]( https://drive.google.com/file/d/1o40MuG82OSaEcHBCA-KuCOX6lPn90iA4/view?usp=sharing)
 ![Memilih Jenis Kamar]( https://drive.google.com/file/d/1CKZ2OCUdtwG8_Ml1qyr9OGrgvUNanw2_/view?usp=sharing)
 ![Rincian Kamar Kelas I]( https://drive.google.com/file/d/1u0jYzubKARbgKTz2Y2SNtx8o1RkmGPfr/view?usp=sharing)
