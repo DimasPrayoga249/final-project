@@ -1,10 +1,7 @@
-# final-project
-UAS Pemrograman Lanjut, Final Project Kelompok 2
+# NAMA ANGGOTA KELOMPOK
 
-Anggota Kelompok :
-BENI TIYAS KRISTANTI (20081010072),
-ALIF SYAHDA ADJI MASYHURI (20081010220),
-SAMUEL KRISPAMA LUMBANTORUAN (20081010066),
-DIMAS SATRIA PRAYOGA (20081010249),
-ANDI PURNOMO (20081010014),
-
+* Andi Purnomo (20081010014)
+* Samuel Krispama Lumbantoruan (20081010066)
+* Beni Tiyas Kristanti (20081010072) 
+* Alif Syahda Adji Masyhuri (20081010220) 
+* Dimas Satria Prayoga (20081010249)
