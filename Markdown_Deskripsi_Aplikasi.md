@@ -13,7 +13,7 @@ MANAJEMEN PENGELOLAAN RAWAT INAP RUMAH SAKIT INTEGRASI
 ![Data Pemesan Kamar](https://drive.google.com/file/d/1omd6UW3NbG45l9x0rdQlx7MECm_bxSRb/view?usp=sharing)
 ![Memilih Jenis Pelayanan Spesialis](https://drive.google.com/file/d/1sqSD0DT94CACyi0HAuIGgkGIT7e-ljnY/view?usp=sharing)
 ![Detail Pelayanan Spesialis Bedah Umum](https://drive.google.com/file/d/14UyIDs93NEs_lO9C5-L0E-HM1arch2g1/view?usp=sharing)
-![Detail Pelayanan Spesialis Mata](https://drive.google.com/file/d/17R7-2aMLfNuKlh0wtSSB4PqtM-EuQLOf/view?usp=sharing)
+![Detail Pelayanan Spesialis Mata](Detail_Pelayanan_Spesialis_Mata.png)
 ![Daetail Pelayanan Spesialis Penyakit Dalam](https://drive.google.com/file/d/1sZz9-nvfwJdz9V2dP_l2sbdcX1UecqLu/view?usp=sharing)
 ![Detail Pelayanan Spesialis Penyakit Kulit dan Kelamin](https://drive.google.com/file/d/19AggQ1Qcf-myTYUvdyjR4UEi0zulh_cA/view?usp=sharing)
 ![Detail Pelayanan Spesialis THT](https://drive.google.com/file/d/1qgsle6TWOnsaJ9J7EIQDyX29mjPkagAr/view?usp=sharing)
