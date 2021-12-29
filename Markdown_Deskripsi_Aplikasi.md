@@ -52,7 +52,7 @@ Aplikasi ini melakukan manajemen terhadap pasien dan pemesan kamar untuk melakuk
 3. Operasi File
 4. Pointer
 5. Rekursif
-6. Array
+6. Operator
 
 # LIST MENU YANG DITAWARKAN
 1. Input Data Diri
