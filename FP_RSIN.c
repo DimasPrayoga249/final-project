@@ -5,11 +5,8 @@
 #include <string.h>
 
 
-
 int main()
 {
-
-
     int dalam_data, periode, umur;
     long int total_1, total_2,total_3,total_4,total_5,total_6,total_7,total_8,total_9;
     long int total1_obat,total2_obat,total3_obat,total4_obat,total5_obat, biaya1,biaya2,biaya3,biaya4,biaya5, tot_biaya, bill_kamar, bill_obat, bill_dokter;
@@ -620,7 +617,7 @@ jenis_perawatan:
             {
                 printf("Kelas I\n");
             }
-        else if (kamar =='2')
+        else if (kamar =='3')
             {
                 printf("Kelas II\n");
             }
@@ -788,6 +785,5 @@ jenis_perawatan:
         printf("\n\n\n\n");
   		printf("                             TERIMA KASIH\n");
     }
-
     return 0;
 }
